@@ -1,11 +1,8 @@
 <?php
-$dbuser="root";
-$dbpass="";
+$dbuser="u5kqcja6qbfwixja";
+$dbpass="vzKTAoGQctvrmZ3BuEoG";
 $host: 'bhxcvvnq9j6lo7aynk87-mysql.services.clever-cloud.com';
-$db="hostel";
+$db="bhxcvvnq9j6lo7aynk87";
 $mysqli =new mysqli($host,$dbuser, $dbpass, $db);
-$port: '3306';
-$user:'u5kqcja6qbfwixja';
-$password:'vzKTAoGQctvrmZ3BuEoG';
-$database:'bhxcvvnq9j6lo7aynk87';
+
 ?>
